@@ -92,8 +92,11 @@
 			android:permission="info.papdt.blackbulb.permission.CONTROL_NIGHT_SCREEN">
 			<intent-filter>
 				<action android:name="info.papdt.blackbulb.ACTION_UPDATE_STATUS"/>
+				<action android:name="info.papdt.blackblub.ACTION_UPDATE_STATUS"/>
 				<action android:name="info.papdt.blackbulb.ALARM_ACTION_START"/>
+				<action android:name="info.papdt.blackblub.ALARM_ACTION_START"/>
 				<action android:name="info.papdt.blackbulb.ALARM_ACTION_STOP"/>
+				<action android:name="info.papdt.blackblub.ALARM_ACTION_STOP"/>
 			</intent-filter>
 		</receiver>
 

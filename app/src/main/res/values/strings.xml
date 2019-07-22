@@ -2,13 +2,13 @@
 	xmlns:tools="http://schemas.android.com/tools"
 	tools:ignore="MissingTranslation" >
 
-	<string name="app_name">Night Screen</string>
+	<string name="app_name">Night screen</string>
 
-	<string name="permission_control_blackbulb_label">Control Night Screen</string>
-	<string name="permission_control_blackbulb_desc">get the status of Night Screen and control it</string>
+	<string name="permission_control_blackbulb_label">Control night screen</string>
+	<string name="permission_control_blackbulb_desc">get the status of night screen and control it</string>
 
 	<!-- Button tip -->
-	<string name="button_tip_text">Tip: Click the top left button to turn on Night Screen.</string>
+	<string name="button_tip_text">Tip: Click the top left button to turn on night screen.</string>
 
     <!-- Yellow filter row -->
     <string name="yellow_filter">Yellow filter</string>
@@ -16,13 +16,13 @@
 
 	<!-- Scheduler Row -->
 	<string name="scheduler_status_on_show_enable_time">Automatically enable at %s.</string>
-	<string name="scheduler_status_on_show_disable_time">It will be end at %s.</string>
+	<string name="scheduler_status_on_show_disable_time">Night screen will end at %s.</string>
 	<string name="scheduler_status_off">OFF</string>
 	<string name="action_settings">Settings</string>
 
 	<!-- Dark theme Row -->
 	<string name="action_dark_theme">Dark theme</string>
-	<string name="dark_theme_summary">Switch on to make Night Screen dark</string>
+	<string name="dark_theme_summary">Switch on to make screen dark</string>
 
 	<!-- Advanced Row -->
 	<string name="dialog_choose_mode">Choose mode</string>
@@ -58,20 +58,20 @@
 
 	<string name="about_donate_alipay">Support author via Alipay</string>
 
-	<string name="dialog_overlay_enable_title">Enable Status Bar Overlay</string>
+	<string name="dialog_overlay_enable_title">Enable status bar overlay</string>
 	<string name="dialog_overlay_enable_message">Enabling this can overlay the status bar at the top of the screen, but it may need a permission on some devices (such as MIUI and Android 6.0). \nIf it doesn\'t work on the first try, please allow Night Screen to show system alert windows.</string>
 
 	<string name="mask_fail_to_start">Failed to start mask. Please check whether the system has denied the permissions.</string>
 
 	<string name="dialog_first_run_title">First run</string>
-	<string name="dialog_first_run_message">Can you see this message? If you can, Night Screen is working well.\nIt will automatically stop after 5 seconds if you don\'t press OK.</string>
+	<string name="dialog_first_run_message">Can you see this message? If you can, night screen is working well.\nIt will automatically stop after 5 seconds if you don\'t press OK.</string>
 
 	<!-- Notification -->
-	<string name="notification_running_title">Night Screen is enabled</string>
+	<string name="notification_running_title">Night screen is enabled</string>
 	<string name="notification_running_msg">Click here to open settings</string>
 
-	<string name="notification_paused_title">Night Screen is paused</string>
-	<string name="notification_paused_msg">Click here to open settings or swipe to stop Night Screen</string>
+	<string name="notification_paused_title">Night screen is paused</string>
+	<string name="notification_paused_msg">Click here to open settings or swipe to stop night screen</string>
 
 	<string name="notification_action_turn_off">Turn off</string>
 	<string name="notification_action_turn_on">Turn on</string>
@@ -85,8 +85,8 @@
 
 	<!-- More settings -->
 	<string name="handle_volume_key_title">Use volume key to adjust brightness</string>
-	<string name="handle_volume_key_summary">You can adjust brightness by volume key in Night Screen interface.</string>
-	<string name="show_task_title">Show Night Screen in recent tasks</string>
+	<string name="handle_volume_key_summary">You can adjust brightness by volume key in night screen interface.</string>
+	<string name="show_task_title">Show night screen in recent tasks</string>
 	<string name="show_task_summary">Some Android OS will kill apps which doesn\'t show or isn\'t locked in recent tasks. If you didn\'t meet this problem, better not to enable this option. (Requires restart app manually to apply)</string>
 	<string name="auto_enable_when_brightness_changed_title">Auto enable when brightness changed</string>
 
@@ -96,6 +96,6 @@
 	<string name="github_title">GitHub repository</string>
 	<string name="github_url" translatable="false">https://github.com/fython/Blackbulb</string>
 	<string name="open_source_license">Open source license</string>
-	<string name="open_source_license_summary">Night Screen is inseparable from the efforts of these open source projects.</string>
+	<string name="open_source_license_summary">Night screen is inseparable from the efforts of these open source projects.</string>
 
 </resources>
